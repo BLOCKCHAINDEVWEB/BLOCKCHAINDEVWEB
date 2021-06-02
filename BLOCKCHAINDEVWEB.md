@@ -1,4 +1,4 @@
-## Trouvez mon **dépôt Github** _dev web_ [ici](https://github.com/Cursusdev/cv-pwahost)  
+## Trouvez mon **dépôt Github** _dev web_ [ici](https://github.com/Cursusdev)  
 
 ## Mes CVs sur ce lien 
 [x] [https://pwahost.xyz/](https://pwahost.xyz/)   
